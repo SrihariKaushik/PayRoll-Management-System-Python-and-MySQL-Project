@@ -1,4 +1,4 @@
-# PayRoll-Management-System-Python-and-MySQL-Project
+# PayRoll-Management-System-Python tkinter-and-MySQL-Project
 The primary objective of this Python-based Employee Payroll Management System is to create an
 efficient and user-friendly application for managing employee records and payroll processes. This
 software aims to streamline the complex task of handling employee information and salary
